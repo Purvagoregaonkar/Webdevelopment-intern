@@ -1,0 +1,196 @@
+PE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Tribute Website | An Indian Army</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="content">
+        <section class="top_section">
+          <div class="image_container">
+            <img src="indian army pic.jpg" alt="tribute" />
+          </div>
+          <div>
+            <h1>An Indian Army</h1>
+            <h4>Amar Jawan</h4>
+        </section>
+        <section class="about_section">
+          
+          <p>
+            The Indian Army is the land-based branch and the largest component of the Indian Armed Forces. 
+            The President of India is the Supreme Commander of the Indian Army, and its professional head is 
+            the Chief of Army Staff (COAS), who is a four-star general. Two officers have been conferred with
+            the rank of field marshal, a five-star rank, which is a ceremonial position of great honour. 
+            The Indian Army originated from the armies of the East India Company, which eventually became the 
+            British Indian Army, and the armies of the princely states,which were merged into the national army 
+            after independence. The units and regiments of the Indian Army have diverse histories and have participated
+            in a number of battles and campaigns around the world, earning many battle and theatre honours before 
+            and after Independence.
+
+
+         </p>
+        </section>
+        <section class="10 Army Heroes and Their Extra Ordinary Tales of Bravery">
+          <h3>Amar Jawan Jyoti</h3>
+          <ul>
+            
+            <li>
+                1. Captain Vikram Batra
+                Born in Palampur, Himachal Pradesh, Captain Vikram Batra of 13 J&K Rifles,
+                is known as the hero of the Kargil war. He led one of the toughest war operations in Kashmir,
+                and was also called Sher Shah (in the intercepted messages of the Pakistani army).
+
+            </li>
+
+            <li>
+               2. Major General Ian Cardozo
+               Major General Ian Cardozo, who has many achievements to his name, will always be known for his
+                cimmense courage in the 1971 war with Pakistan. He was, at the time, a young major with 5 Gorkha Rifles. During the war, he stepped on a landmine and severely injured his leg. When even the doctor could not cut his leg,
+               Cardozo asked for a khukri (the Gorkha knife) and cut his own leg off, saying,
+               “Now go and bury it!”
+
+            </li>
+            <li>
+                3. Brigadier Mohammad Usman
+                Born in Bibipur, Uttar Pradesh, this man of steel joined the Indian army in 1934. 
+                During the Indo-Pakistan war of 1947/48, Brigadier Usman repulsed a fierce attack on Naushera and Jhangar, two highly strategic locations in Jammu and Kashmir,
+                and was named by his fellow soldiers ‘The Lion of Naushera.’
+            </li>
+            <li>
+                4 . Subedar Yogendra Singh Yadav
+                This brave soldier has the high honour of being the youngest recipient of the Param Vir Chakra. 
+                He received this award at the age of 19 for his actions on July 4,1999, during the Kargil war. 
+                Born in 1980 in Aurangabad Ahir village, Uttar Pradesh, Yadav showed immense courage during the war in 1999. He volunteered for the task of capturing three strategic bunkers on Tiger Hill,
+                which were situated at the top of a vertical, snow-covered, 16,500 feet high cliff face.
+            </li>
+            <li>
+              5.  Rifleman Jaswant Singh Rawat
+              Words fall short when it comes to telling this brave man’s story. A hero of the 1962 Indo-China war, Rifleman Jaswant Singh Rawat of the 4th Garhwal Rifles Infantry Regiment is the only soldier in the history of the Indian Army who has risen through the ranks after his death. He was ‘promoted’ to the rank of Major General 40 years after his death,
+              and is still believed to ‘command’ troops guarding India’s eastern frontiers with China.
+            </li>
+            <li>
+              6.Second Lieutenant Arun Khetarpal
+              Born in Pune, 2nd Lieutenant Arun Khetarpal of the 17 Poona Horse regiment is yet another braveheart who died too young at the age of 21. He died in the Battle of Basantar during the Indo-Pakistan War of 1971,
+              where his brave actions earned him the Param Vir Chakra posthumously.
+            </li>
+            <li>
+             7. Major Somnath Sharma
+             This brave soldier of Fourth Kumaon regiment sacrificed his life at the young age of 24. 
+             With his hand already in plaster from an injury sustained in a hockey game, Sharma insisted on being with his company in
+             combat when they were airlifted to Srinagar on October 30, 1947 to fight Pakistani invaders.
+            </li>
+            <li>
+              8.  Naik Jadu Nath Singh
+              Naik Jadu Nath Singh, the fourth recipient of the Param Vir Chakra, fought in Jammu and Kashmir in the Indo-Pak war of 1947/48. His presence of mind and bravery saved his post, not just once but thrice, from the enemy. On the crucial day of February 6, 1948,
+               Singh was in command of a forward post at Taindhar. Nine men garrisoned the post.
+            </li>
+            <li>
+            9. Subedar Karam Singh
+            Born in Sehna village in the Sangrur District of Punjab, Karam Singh was the first non-posthumous Param Vir Chakra awardee. Singh retired from the Indian Army as Honorary Captain in 1948 and died in 1993 at the age of 77. 
+            He is also the only Indian to win the highest medals of both the British and Indian governments.
+            </li>
+            <li>
+            10. Major Ramaswamy Parameswaran
+            Born in Mumbai, Maharashtra, Parameswaran is yet another braveheart who died at the age of 41 in 1987,
+            in India’s Sri Lanka operations. He was awarded the Param Vir Chakra, posthumously.
+            </li>
+          </ul>
+        </section>
+        <footer>
+          <p>
+            Read more about An Indian Army on
+            <a href="https://en.wikipedia.org/wiki/Indian_Army"
+              >Wikipedia.</a
+            >
+          </p>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    background-color: #e5e5fd;
+    min-height: 100vh;
+    border: 10px solid #1d1e4c;
+  }
+  
+  .content {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .top_section {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  .top_section h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #1d1e4c;
+    text-transform: uppercase;
+  }
+  .top_section h4 {
+    font-size: 30px;
+    text-align: end;
+  }
+  
+  .image_container {
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  
+  .image_container,
+  img {
+    width: 300px;
+    height: 320px;
+  }
+  .about_section {
+    margin-top: 50px;
+  }
+  .about_section h2 {
+    font-size: 70px;
+    font-weight: 400;
+    margin-bottom: 20px;
+  }
+  .about_section p {
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 1.2px;
+    text-align: justify;
+  }
+  .biography_section {
+    margin: 50px 0;
+  }
+  .biography_section h3 {
+    margin-bottom: 20px;
+  }
+  .biography_section ul {
+    margin-left: 50px;
+  }
+  .biography_section li {
+    margin-bottom: 15px;
+  }
+  
+  footer {
+    margin: 50px 0;
+  }
+  footer p {
+    text-align: end;
+  }
